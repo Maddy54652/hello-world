@@ -1,4 +1,4 @@
 # hello-world
-My first time on Github
+A catch-all file for "Hello World" files
 
-:D
+This was originally the "Hello World" tutorial
